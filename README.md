@@ -14,7 +14,7 @@ MarketCharting is a Python application designed to provide real-time market data
 
 Before you begin, ensure you have met the following requirements:
 
-    Python 3.x installed on your system.
+    Python 3.12 installed on your system.
     Pip for Python package management.
 
 # Installation
@@ -36,6 +36,6 @@ Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-    Python 3.x installed on your system.
+    Python 3.12 installed on your system.
     Pip for Python package management.
 
